@@ -1,0 +1,27 @@
+<templateSet group="user">
+  <template name="tsm" value="android:textSize=&quot;@dimen/text_size_medium&quot; " description="android:textSize=&quot;@dimen/text_size_medium&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="tss" value="android:textSize=&quot;@dimen/text_size_small&quot;&#10;" description="android:textSize=&quot;@dimen/text_size_small&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="tst" value="android:textSize=&quot;@dimen/text_size_title&quot; " description="android:textSize=&quot;@dimen/text_size_title&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="tcd" value="android:textColor=&quot;@color/textColorDark&quot;" description="android:textColor=&quot;@color/textColorDark&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="tcl" value="android:textColor=&quot;@color/textColorLight&quot;" description="android:textColor=&quot;@color/textColorLight&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

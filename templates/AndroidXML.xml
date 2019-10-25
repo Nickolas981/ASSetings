@@ -1,0 +1,19 @@
+<templateSet group="AndroidXML">
+  <template name="ps" value="android:padding=&quot;@dimen/small_padding&quot;&#10;" description="" toReformat="false" toShortenFQNames="true" />
+  <template name="item" value="&lt;variable&#10;    name=&quot;item&quot;&#10;    type=&quot;$type$&quot;/&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="rm" value="android:fontFamily=&quot;@font/roboto_medium&quot;" description="android:fontFamily=&quot;@font/roboto_medium&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="roboto" value="android:fontFamily=&quot;@font/roboto&quot;" description="android:fontFamily=&quot;@font/roboto&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

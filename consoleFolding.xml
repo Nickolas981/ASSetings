@@ -1,0 +1,14 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="Access denied finding property &quot;vendor.debug.egl.swapinterval&quot;" />
+        <option value="E/bt_osi_wakelock:" />
+        <option value="Failed attempting to start service: com.hyll.cardot2/org.altbeacon.beacon.BeaconIntentProcessor" />
+        <option value="RenderThread: type=1400 audit(" />
+        <option value="vendor.debug.prerotation.disable" />
+        <option value="No package ID ff found for ID 0xffffffff" />
+      </list>
+    </option>
+  </component>
+</application>

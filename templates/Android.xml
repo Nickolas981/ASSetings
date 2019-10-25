@@ -1,0 +1,3 @@
+<templateSet group="Android">
+  <template name="ld" value="com.example.logger.Logger(&quot;&quot;,&quot;&quot;)" description="Logger debug" toReformat="false" toShortenFQNames="true" />
+</templateSet>
