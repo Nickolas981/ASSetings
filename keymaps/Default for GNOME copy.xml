@@ -1,0 +1,33 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="Android.BuildApk">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f4" />
+  </action>
+  <action id="ExpandToLevel1">
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="shift ctrl 1" />
+  </action>
+  <action id="Kotlin.NewFile">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="NewAndroidVectorAsset">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ToggleBookmark1" />
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>
