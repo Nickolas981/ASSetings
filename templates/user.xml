@@ -24,4 +24,45 @@
       <option name="XML" value="true" />
     </context>
   </template>
+  <template name="icon" value="&lt;ImageView&#10;            android:layout_width=&quot;wrap_content&quot;&#10;            android:layout_height=&quot;wrap_content&quot;&#10;            app:srcCompat=&quot;@drawable/$ICON_ID$&quot;&#10;            android:padding=&quot;@dimen/medium_padding&quot;/&gt;" description="Creates image view with 16dp paddings" toReformat="true" toShortenFQNames="true">
+    <variable name="ICON_ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="gcv" value="android:gravity=&quot;center_vertical&quot;" description="Gravity: center_vertical" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="false" />
+      <option name="XSL_TEXT" value="false" />
+    </context>
+  </template>
+  <template name="msm" value="android:layout_marginStart=&quot;@dimen/medium_padding&quot;" description="MarginStart medium" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="false" />
+      <option name="XSL_TEXT" value="false" />
+    </context>
+  </template>
+  <template name="mem" value="android:layout_marginEnd=&quot;@dimen/medium_padding&quot;" description="MarginEnd medium" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="false" />
+      <option name="XSL_TEXT" value="false" />
+    </context>
+  </template>
+  <template name="mbm" value="android:layout_marginBottom=&quot;@dimen/medium_padding&quot;" description="marginBottom medium" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="false" />
+      <option name="XSL_TEXT" value="false" />
+    </context>
+  </template>
+  <template name="mtm" value="android:layout_marginTop=&quot;@dimen/medium_padding&quot;" description="MarginTop medium" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="false" />
+      <option name="XSL_TEXT" value="false" />
+    </context>
+  </template>
 </templateSet>
