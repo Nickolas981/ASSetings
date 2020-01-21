@@ -95,4 +95,16 @@
       <option name="XSL_TEXT" value="false" />
     </context>
   </template>
+  <template name="cu" value="CompositeUnit" description="extend CompositeUnit" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="&lt;abbreviation&gt;" value="CompositeUnit" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
