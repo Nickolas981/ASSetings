@@ -24,7 +24,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="icon" value="&lt;ImageView&#10;            android:layout_width=&quot;wrap_content&quot;&#10;            android:layout_height=&quot;wrap_content&quot;&#10;            app:srcCompat=&quot;@drawable/$ICON_ID$&quot;&#10;            android:padding=&quot;@dimen/medium_padding&quot;/&gt;" description="Creates image view with 16dp paddings" toReformat="true" toShortenFQNames="true">
+  <template name="icon" value="&lt;ImageView&#10;            android:layout_width=&quot;wrap_content&quot;&#10;            android:layout_height=&quot;wrap_content&quot;&#10;            app:srcCompat=&quot;@drawable/$ICON_ID$&quot;&#10;            android:foreground=&quot;?actionBarItemBackground&quot;&#10;            android:padding=&quot;@dimen/medium_padding&quot;/&gt;" description="Creates image view with 16dp paddings" toReformat="true" toShortenFQNames="true">
     <variable name="ICON_ID" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="XML_TEXT" value="true" />
@@ -96,12 +96,6 @@
     </context>
   </template>
   <template name="cu" value="CompositeUnit" description="extend CompositeUnit" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="KOTLIN_CLASS" value="true" />
-      <option name="KOTLIN_EXPRESSION" value="true" />
-    </context>
-  </template>
-  <template name="&lt;abbreviation&gt;" value="CompositeUnit" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
       <option name="KOTLIN_EXPRESSION" value="true" />
