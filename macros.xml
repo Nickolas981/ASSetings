@@ -1,0 +1,15 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="np_add">
+      <action id="RenameElement" />
+      <action id="EditorLeft" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorPaste" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
