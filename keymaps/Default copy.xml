@@ -20,6 +20,26 @@
     <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad1" />
     <keyboard-shortcut first-keystroke="shift ctrl 1" />
   </action>
+  <action id="ExpandAllToLevel2">
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="2" />
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad2" />
+    <keyboard-shortcut first-keystroke="shift ctrl 2" />
+  </action>
+  <action id="ExpandAllToLevel3">
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="3" />
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad3" />
+    <keyboard-shortcut first-keystroke="shift ctrl 3" />
+  </action>
+  <action id="ExpandAllToLevel4">
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="4" />
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad4" />
+    <keyboard-shortcut first-keystroke="shift ctrl 4" />
+  </action>
+  <action id="ExpandAllToLevel5">
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="5" />
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad5" />
+    <keyboard-shortcut first-keystroke="shift ctrl 5" />
+  </action>
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
@@ -30,6 +50,10 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="ToggleBookmark1" />
+  <action id="ToggleBookmark2" />
+  <action id="ToggleBookmark3" />
+  <action id="ToggleBookmark4" />
+  <action id="ToggleBookmark5" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
