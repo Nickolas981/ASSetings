@@ -2,8 +2,9 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
-        <option value="surfaceflinger" />
         <option value="decremented below 0: unmatched pair of setIsRecyable() calls for" />
+        <option value="surfaceflinger" />
+        <option value="No package ID ff found for ID 0xffffffff." />
       </list>
     </option>
   </component>
