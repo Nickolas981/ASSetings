@@ -40,6 +40,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad5" />
     <keyboard-shortcut first-keystroke="shift ctrl 5" />
   </action>
+  <action id="InvalidateCaches">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
+  </action>
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
