@@ -1,5 +1,5 @@
 <templateSet group="surround">
-  <template name="LinearLayout" value=" &lt;LinearLayout&#10;            android:layout_height=&quot;wrap_content&quot;&#10;            android:orientation=&quot;horizontal&quot;&#10;            android:layout_width=&quot;match_parent&quot;&gt;&#10;&#10;    $SELECTION$&#10;&#10;&lt;/LinearLayout&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="LinearLayout" value=" &lt;LinearLayout&#10;            android:layout_height=&quot;wrap_content&quot;&#10;            android:orientation=&quot;horizontal&quot;&#10;            android:layout_width=&quot;match_parent&quot;&gt;&#10;&#10;    $SELECTION$&#10;&#10;&lt;/LinearLayout&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
