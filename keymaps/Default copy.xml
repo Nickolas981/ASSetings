@@ -40,6 +40,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad5" />
     <keyboard-shortcut first-keystroke="shift ctrl 5" />
   </action>
+  <action id="ExternalSystem_bfbb35acandroid7d265279generateApolloSources">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
   <action id="InvalidateCaches">
     <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
   </action>
