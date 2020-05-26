@@ -4,9 +4,10 @@
       <list>
         <option value="Caused by: java.security.cert.CertificateException: java.security.cert.CertPathValidatorException: Trust anchor for certification path not found." />
         <option value="decremented below 0: unmatched pair of setIsRecyable() calls for" />
+        <option value="input svInfo.flags is 8" />
         <option value="No package ID ff found for ID 0xffffffff." />
         <option value="surfaceflinger" />
-        <option value="input svInfo.flags is 8" />
+        <option value="Couldn't load memtrack module" />
       </list>
     </option>
   </component>
