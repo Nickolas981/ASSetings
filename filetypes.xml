@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping pattern="CustomBlocksRequest" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
