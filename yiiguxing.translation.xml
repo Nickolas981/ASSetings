@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Мой кошелек" />
       <item value="Чтобы получать уведомления на свой электронный адрес, вам неободимо подтвердить свой e-mail" />
       <item value="Подтвердите E-mail" />
       <item value="Щоб отримувати повідомлення на свою електронну адресу, вам необхідно її додати та підтвердити" />
@@ -24,7 +25,7 @@
       <map>
         <entry key="ENGLISH" value="3" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="RUSSIAN" value="16" />
+        <entry key="RUSSIAN" value="17" />
         <entry key="UKRAINIAN" value="17" />
       </map>
     </option>
