@@ -1,0 +1,42 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Чтобы получать уведомления на свой электронный адрес, вам неободимо подтвердить свой e-mail" />
+      <item value="Подтвердите E-mail" />
+      <item value="Щоб отримувати повідомлення на свою електронну адресу, вам необхідно її додати та підтвердити" />
+      <item value="Додайте E-mail" />
+      <item value="Виды рассылок" />
+      <item value="Навіть якщо ви відпишетесь від усього, ми все одно можемо надсилати системні повідомлення без можливості відписки від них. Ми ж повинні мати можливість надіслати вам SMS для входу :)" />
+      <item value="Новости сайта, советы по работе с функционалом" />
+      <item value="Инфо" />
+      <item value="Подборки товаров, акции, скидки" />
+      <item value="Акции и рекомендации" />
+      <item value="Уведомления о новых объявлениях в сохраненных результатах поиска" />
+      <item value="Новые объявления" />
+      <item value="Notifications about the moderation and status of your ads" />
+      <item value="Мои объявления" />
+      <item value="Уведомления о ваших заказах и новых отзывах" />
+      <item value="Заказы и отзывы" />
+      <item value="отзывы" />
+      <item value="Уведомления о новых сообщениях в чат" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="3" />
+        <entry key="BULGARIAN" value="1" />
+        <entry key="RUSSIAN" value="16" />
+        <entry key="UKRAINIAN" value="17" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="autoReplace" value="true" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="UKRAINIAN" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+  </component>
+</application>
