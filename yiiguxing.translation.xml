@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Сделать основной" />
+      <item value="Основная" />
       <item value="Чтобы работа с сайтами была удобной и безопасной, мы создали единый надежный цифровой EVO-кошелек, где ваши платежные данные хранятся в зашифрованном виде." />
       <item value="EVO — семья маркетплейсов для онлайн-шопинга, где каждый найдет то, что ищет" />
       <item value="Единый надежный цифровой\nEVO-кошелек" />
@@ -28,8 +30,8 @@
       <map>
         <entry key="ENGLISH" value="3" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="RUSSIAN" value="21" />
-        <entry key="UKRAINIAN" value="21" />
+        <entry key="RUSSIAN" value="24" />
+        <entry key="UKRAINIAN" value="24" />
       </map>
     </option>
   </component>
