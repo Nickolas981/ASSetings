@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Добавить платежную карту с" />
       <item value="Сделать основной" />
       <item value="Основная" />
       <item value="Чтобы работа с сайтами была удобной и безопасной, мы создали единый надежный цифровой EVO-кошелек, где ваши платежные данные хранятся в зашифрованном виде." />
@@ -30,8 +31,8 @@
       <map>
         <entry key="ENGLISH" value="3" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="RUSSIAN" value="24" />
-        <entry key="UKRAINIAN" value="24" />
+        <entry key="RUSSIAN" value="25" />
+        <entry key="UKRAINIAN" value="25" />
       </map>
     </option>
   </component>
