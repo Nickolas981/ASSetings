@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Добавить платежную карту с" />
       <item value="Ой действие уже нельзя совершить, оно выполнено или больше не доступно." />
       <item value="Ой Действие уже нельзя совершить, оно выполнено или больше не доступно." />
       <item value="Сообщение не поддерживается в текущей версии приложения. Для его просмотра перейдите в веб-версию сайта." />
       <item value="Код отправлен на" />
       <item value="добавится" />
       <item value="После ввода кода" />
-      <item value="Добавить платежную карту с" />
       <item value="Сделать основной" />
       <item value="Основная" />
       <item value="Чтобы работа с сайтами была удобной и безопасной, мы создали единый надежный цифровой EVO-кошелек, где ваши платежные данные хранятся в зашифрованном виде." />
@@ -37,8 +37,8 @@
       <map>
         <entry key="ENGLISH" value="3" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="RUSSIAN" value="30" />
-        <entry key="UKRAINIAN" value="30" />
+        <entry key="RUSSIAN" value="31" />
+        <entry key="UKRAINIAN" value="31" />
       </map>
     </option>
   </component>
