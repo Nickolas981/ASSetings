@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Рекомендуем договориться с продавцом о самовывозе или отправке наложенным платежом без предоплаты" />
+      <item value="Товар нельзя купить через Надежную оплаты картой, так как его цена превышает 14 999 тыс. грн" />
+      <item value="Онлайн оплата недоступна" />
       <item value="Добавить платежную карту с" />
       <item value="Ой действие уже нельзя совершить, оно выполнено или больше не доступно." />
       <item value="Ой Действие уже нельзя совершить, оно выполнено или больше не доступно." />
@@ -37,8 +40,8 @@
       <map>
         <entry key="ENGLISH" value="3" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="RUSSIAN" value="31" />
-        <entry key="UKRAINIAN" value="32" />
+        <entry key="RUSSIAN" value="33" />
+        <entry key="UKRAINIAN" value="33" />
       </map>
     </option>
   </component>
