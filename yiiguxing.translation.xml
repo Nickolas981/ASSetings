@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="После ввода кода" />
       <item value="Рекомендуем договориться с продавцом о самовывозе или отправке наложенным платежом без предоплаты" />
       <item value="Товар нельзя купить через Надежную оплаты картой, так как его цена превышает 14 999 тыс. грн" />
       <item value="Онлайн оплата недоступна" />
@@ -10,7 +11,6 @@
       <item value="Сообщение не поддерживается в текущей версии приложения. Для его просмотра перейдите в веб-версию сайта." />
       <item value="Код отправлен на" />
       <item value="добавится" />
-      <item value="После ввода кода" />
       <item value="Сделать основной" />
       <item value="Основная" />
       <item value="Чтобы работа с сайтами была удобной и безопасной, мы создали единый надежный цифровой EVO-кошелек, где ваши платежные данные хранятся в зашифрованном виде." />
@@ -40,8 +40,8 @@
       <map>
         <entry key="ENGLISH" value="3" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="RUSSIAN" value="33" />
-        <entry key="UKRAINIAN" value="33" />
+        <entry key="RUSSIAN" value="34" />
+        <entry key="UKRAINIAN" value="34" />
       </map>
     </option>
   </component>
