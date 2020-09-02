@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Давайте к нам, дарим продвижение ТОП и VIP для 5 объявлений" />
       <item value="После ввода кода" />
       <item value="Рекомендуем договориться с продавцом о самовывозе или отправке наложенным платежом без предоплаты" />
       <item value="Товар нельзя купить через Надежную оплаты картой, так как его цена превышает 14 999 тыс. грн" />
@@ -40,8 +41,8 @@
       <map>
         <entry key="ENGLISH" value="3" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="RUSSIAN" value="34" />
-        <entry key="UKRAINIAN" value="34" />
+        <entry key="RUSSIAN" value="35" />
+        <entry key="UKRAINIAN" value="35" />
       </map>
     </option>
   </component>
