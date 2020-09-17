@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Обновить объявление, объявление отклонено, продвижение и т.д." />
       <item value="Не переходите по сторонним ссылкам. Мошенники могут копировать IZI до мелочей для наживы." />
       <item value="Общайтесь только в izi-чате, не переходите в другие мессенджеры для вашей безопасности." />
       <item value="Не переводите деньги напрямую. Для вашей безопасности оформите заказ через кнопку Купить." />
@@ -54,8 +55,8 @@
       <map>
         <entry key="ENGLISH" value="3" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="RUSSIAN" value="47" />
-        <entry key="UKRAINIAN" value="47" />
+        <entry key="RUSSIAN" value="48" />
+        <entry key="UKRAINIAN" value="48" />
       </map>
     </option>
   </component>
