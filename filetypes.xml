@@ -4,8 +4,8 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="CustomBlocksRequest" type="PLAIN_TEXT" />
       <mapping pattern="Map" type="PLAIN_TEXT" />
+      <mapping pattern="CustomBlocksRequest" type="PLAIN_TEXT" />
       <mapping pattern="Notifications" type="PLAIN_TEXT" />
       <mapping pattern="Dialog" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
