@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Продавец отменил заказ, деньги вернутся вам на карту в течение 6 банковских дней. Не расстраивайтесь, у нас есть похожие товары." />
       <item value="Есть еще время, чтобы завершить оформление покупки" />
       <item value="Сообщайте IZI о подозрительных пользователях или объявлениях." />
       <item value="Не переходите по подозрительным ссылкам, внимательно проверяйте их адрес. Мошенники могут копировать IZI или другие сайты до мельчайших подробностей." />
@@ -50,14 +51,13 @@
       <item value="Уведомления о новых объявлениях в сохраненных результатах поиска" />
       <item value="Новые объявления" />
       <item value="Notifications about the moderation and status of your ads" />
-      <item value="Мои объявления" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="RUSSIAN" value="53" />
-        <entry key="UKRAINIAN" value="53" />
+        <entry key="RUSSIAN" value="54" />
+        <entry key="UKRAINIAN" value="54" />
       </map>
     </option>
   </component>
