@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Как сюда попасть?" />
+      <item value="TOП в категории" />
+      <item value="Подать" />
+      <item value="Мои объявления" />
+      <item value="В TOП продается быстрее" />
       <item value="Заказ отменен, так как он не был отправлен" />
       <item value="Не расстраивайтесь, у нас есть похожие товары." />
       <item value="Заказ отменен, так как он не был подтвержден до" />
@@ -46,18 +51,13 @@
       <item value="Щоб отримувати повідомлення на свою електронну адресу, вам необхідно її додати та підтвердити" />
       <item value="Додайте E-mail" />
       <item value="Виды рассылок" />
-      <item value="Навіть якщо ви відпишетесь від усього, ми все одно можемо надсилати системні повідомлення без можливості відписки від них. Ми ж повинні мати можливість надіслати вам SMS для входу :)" />
-      <item value="Новости сайта, советы по работе с функционалом" />
-      <item value="Инфо" />
-      <item value="Подборки товаров, акции, скидки" />
-      <item value="Акции и рекомендации" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="RUSSIAN" value="57" />
-        <entry key="UKRAINIAN" value="57" />
+        <entry key="RUSSIAN" value="61" />
+        <entry key="UKRAINIAN" value="61" />
       </map>
     </option>
   </component>
