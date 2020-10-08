@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ТОП-объявления размещаются над всеми объявлениями в категории" />
+      <item value="В два раза больше просмотров" />
+      <item value="Получают специальную метку «ТОП»" />
       <item value="Как сюда попасть?" />
       <item value="TOП в категории" />
       <item value="Подать" />
@@ -48,16 +51,13 @@
       <item value="Мой кошелек" />
       <item value="Чтобы получать уведомления на свой электронный адрес, вам неободимо подтвердить свой e-mail" />
       <item value="Подтвердите E-mail" />
-      <item value="Щоб отримувати повідомлення на свою електронну адресу, вам необхідно її додати та підтвердити" />
-      <item value="Додайте E-mail" />
-      <item value="Виды рассылок" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="RUSSIAN" value="61" />
-        <entry key="UKRAINIAN" value="61" />
+        <entry key="RUSSIAN" value="64" />
+        <entry key="UKRAINIAN" value="64" />
       </map>
     </option>
   </component>
