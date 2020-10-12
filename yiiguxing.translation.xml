@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Доставка от 55₴" />
+      <item value="Стоимость денежного перевода на почте 2%" />
+      <item value="Частичная предоплата на карту" />
+      <item value="Бесплатная доставка" />
+      <item value="Без комиссии за услугу" />
+      <item value="Гарантия возврата денег" />
       <item value="Каждую минуту на IZI появляются новые объявления, чтобы ваше объявление всегда оставалось на виду, покупайте услуги продвижения." />
       <item value="ТОП-объявления размещаются над всеми объявлениями в категории" />
       <item value="В два раза больше просмотров" />
@@ -45,19 +51,13 @@
       <item value="Код отправлен на" />
       <item value="добавится" />
       <item value="Сделать основной" />
-      <item value="Основная" />
-      <item value="Чтобы работа с сайтами была удобной и безопасной, мы создали единый надежный цифровой EVO-кошелек, где ваши платежные данные хранятся в зашифрованном виде." />
-      <item value="EVO — семья маркетплейсов для онлайн-шопинга, где каждый найдет то, что ищет" />
-      <item value="Единый надежный цифровой\nEVO-кошелек" />
-      <item value="Мой кошелек" />
-      <item value="Чтобы получать уведомления на свой электронный адрес, вам неободимо подтвердить свой e-mail" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="RUSSIAN" value="65" />
-        <entry key="UKRAINIAN" value="65" />
+        <entry key="RUSSIAN" value="70" />
+        <entry key="UKRAINIAN" value="72" />
       </map>
     </option>
   </component>
