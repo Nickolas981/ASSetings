@@ -16,4 +16,11 @@
       <option name="XML" value="true" />
     </context>
   </template>
+  <template name="tlbr" value="&lt;LinearLayout&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:orientation=&quot;horizontal&quot;&#10;    android:gravity=&quot;center_vertical&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&gt;&#10;&#10;    &lt;ImageView&#10;        android:layout_width=&quot;wrap_content&quot;&#10;        android:layout_height=&quot;wrap_content&quot;&#10;        app:srcCompat=&quot;$icon$&quot;&#10;        android:foreground=&quot;?actionBarItemBackground&quot;&#10;        android:padding=&quot;@dimen/medium_padding&quot; /&gt;&#10;&#10;    &lt;TextView&#10;        android:layout_width=&quot;wrap_content&quot;&#10;        android:text=&quot;$text$&quot;&#10;        android:textColor=&quot;@color/textColorDark&quot;&#10;        android:textSize=&quot;@dimen/text_size_title&quot;&#10;        android:fontFamily=&quot;@font/roboto_medium&quot;&#10;        android:layout_height=&quot;wrap_content&quot;/&gt;&#10;&#10;&lt;/LinearLayout&gt;" description="Toolbar" toReformat="false" toShortenFQNames="true">
+    <variable name="icon" expression="" defaultValue="@drawable/ic_close_black_24dp" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
 </templateSet>
